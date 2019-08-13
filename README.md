@@ -15,5 +15,6 @@ Next, get into the project-directory, and type the following command to install 
 <br>
 
 Now, you're all set. Just write `npm start` to start your local server. <br>
-Open your browser, and go to http://localhost:3000/ to play the game. <br><br>
+Open your browser, and go to http://localhost:3000/ to play the game. <br>
+Now, this site has been hosted, click http://tictactoe.gq to play this game. <br><br>
 Happy Coding:)
