@@ -7,8 +7,6 @@ In this project, I made a simple Tic-Tac-Toe Game using [React](https://reactjs.
 If you're using Linux-based OS, open your terminal, and clone the app using the following command. <br>
 `git clone https://github.com/yogendra3236/Tic-Tac-Toe-Game.git`
 <br><br>
-Or, create a new react app by writing the following command <br>
-`npx create-react-app tic-tac-toe`
 
 Next, get into the project-directory, and type the following command to install necessary dependencies onto your system. <br>
 `sudo npm install` 
