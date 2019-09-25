@@ -16,5 +16,5 @@ Next, get into the project-directory, and type the following command to install 
 
 Now, you're all set. Just write `npm start` to start your local server. <br>
 Open your browser, and go to http://localhost:3000/ to play the game. <br>
-Now, this site has been hosted, click http://reactgame.cf to play this game. <br><br>
+Now, this site has been hosted, click http://tictactoegame.ml or https://yogendra3236.github.io/Tic-Tac-Toe-Game/ to play this game. <br><br>
 Happy Coding:)
