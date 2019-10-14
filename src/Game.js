@@ -35,7 +35,7 @@ class Game extends Component {
         this.setState({
             array: array,
             isXNext: !this.state.isXNext,
-            count: count+=1,
+            count: count+=1
         })
     }
 
